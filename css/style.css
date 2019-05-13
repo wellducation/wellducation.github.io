@@ -160,6 +160,7 @@
 	}
 	
 	iframe {
+		max-width: 500px;
 		margin-bottom: 40px;
 	}
 /* Section/Article */
