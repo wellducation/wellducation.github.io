@@ -1042,7 +1042,7 @@
 	#banner {
 		background-image: url(../images/dark_tint.png), url(../images/casual-close-up-colors-1954524.jpg);
 		background-position: center center;
-		background-size: cover;
+		background-size: 100% 100%;
 		color: #ffffff;
 		padding: 14em 0em 14em;
 		text-align: center;
