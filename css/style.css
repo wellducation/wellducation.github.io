@@ -1001,7 +1001,7 @@
 					}
 
 						#header nav > ul > li a:active, #header nav > ul > li a:hover {
-							color: #ffffff;
+							color: #707070;
 						}
 
 					#header nav > ul > li:first-child {
@@ -1010,7 +1010,7 @@
 
 					#header nav > ul > li .button {
 						background-color: #fff;
-						color: #444 !important;
+						color: #707070 !important;
 						height: 2.25em;
 						line-height: 2.25em;
 						margin-bottom: 0;
