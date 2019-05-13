@@ -165,6 +165,8 @@
 	}
 	#mainLogo {
 	width: 1500px;
+	position: relative;
+	left: 50%;
 	overflow: hidden;
 	/*blah3*/
 }
