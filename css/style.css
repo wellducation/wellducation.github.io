@@ -163,12 +163,9 @@
 		max-width: 700px;
 		margin-bottom: 60px;
 	}
-	/*#mainLogo {
-	position: relative;
-	left: 50%;
-	overflow: visible;
-	blah7*/
-}
+	#mainLogo {
+		width: 70%;
+	}
 /* Section/Article */
 
 	section.special, article.special {
