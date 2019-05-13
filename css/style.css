@@ -167,6 +167,7 @@
 	width: 1500px;
 	position: relative;
 	left: 50%;
+	overflow: visible;
 	/*blah5*/
 }
 /* Section/Article */
