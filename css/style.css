@@ -941,7 +941,7 @@
 
 	#header {
 		background-color: #383b43;
-		color: #3f3f3f;
+		color: #707070;
 		cursor: default;
 		font-size: 1.1em;
 		height: 6em;
@@ -951,7 +951,7 @@
 	}
 
 		#header h1 {
-			color: #3f3f3f;
+			color: #707070;
 			height: inherit;
 			left: 3em;
 			line-height: inherit;
